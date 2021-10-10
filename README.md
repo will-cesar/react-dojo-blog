@@ -5,12 +5,13 @@
 
 ## Conteúdo do curso
 - Construção de um blog com os recursos básicos do React
-- Uso dos principais hooks como useState, useEffect, useParams
+- Uso dos principais hooks como useState, useEffect, useParams, useHistory
 - Tratamento de erros de requisição
 - Uso do json-server como fake api
 - Criação de um custom hook (no projeto foi criado um "useFetch" hook)
 - Utilização do react-router-dom. Criação de rotas normais e rotas com parâmetros
 - Uso do "AbortController" para cancelar o useEffect
+- Requisições com GET, POST e DELETE
 
 ## Dependências
 - json-server
